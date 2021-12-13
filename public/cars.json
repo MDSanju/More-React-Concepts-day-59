@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "name": "Aston Martin",
+        "price": 125
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "price": 145
+    },
+    {
+        "id": 3,
+        "name": "BMW",
+        "price": 177
+    },
+    {
+        "id": 4,
+        "name": "Cadillac",
+        "price": 152
+    },
+    {
+        "id": 5,
+        "name": "Ferrari",
+        "price": 255
+    }
+]
